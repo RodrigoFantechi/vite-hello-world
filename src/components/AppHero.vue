@@ -1,6 +1,6 @@
 <script>
 export default{
-    name: AppHero
+    name: 'AppHero'
 }
 </script>
 
